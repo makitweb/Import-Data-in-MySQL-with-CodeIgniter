@@ -1,4 +1,4 @@
-# Import-Data-in-MySQL-with-CodeIgniter
+# Import Data in MySQL with CodeIgniter
 
 CSV files are easier to maintain and can be used for export and import data in the web application.
 
